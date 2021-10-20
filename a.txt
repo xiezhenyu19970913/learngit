@@ -4,3 +4,8 @@ new version 2.0
 new version 3.0
 version 4.0
 version 5.0
+new branch dev
+i am a bad man
+i am a better man
+add merge
+fix bug101
